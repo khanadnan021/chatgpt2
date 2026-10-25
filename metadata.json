@@ -1,0 +1,11 @@
+{
+  "name": "ChatGPT",
+  "description": "Conversational AI assistant interface with thinking mode, web search, image creation, voice interaction, and rich markdown responses.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
